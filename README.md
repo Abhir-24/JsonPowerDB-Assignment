@@ -1,5 +1,4 @@
 # JsonPowerDB-Assignment
-JsonPowerDB Task for Login2Xplore internship
 
 ### Description of the Project
 This project demonstrates the basics of JsonPowerDB(JPDB) and how to use JPDB for CRUD operations.
